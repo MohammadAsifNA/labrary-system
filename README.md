@@ -1,2 +1,1 @@
-# labrary-system
-labrary system
+# library-system
